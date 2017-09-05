@@ -1,0 +1,22 @@
+{
+  "name": "contentful",
+  "version": "1.0.0",
+  "description": "contentful example",
+  "main": "index.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcrader/contentful.git"
+  },
+  "keywords": [
+    "n/a"
+  ],
+  "author": "Joey Rader",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcrader/contentful/issues"
+  },
+  "homepage": "https://github.com/jcrader/contentful#readme"
+}
